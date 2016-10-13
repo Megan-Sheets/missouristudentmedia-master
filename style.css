@@ -9,3 +9,16 @@ body{
   padding-left: 50px;
   padding-right: 50px;
 }
+
+#nav{
+  list-style-type: none;
+  text-align: center;
+}
+
+#nav li{
+  float: left;
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  width: 25%;
+}
