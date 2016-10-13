@@ -10,12 +10,12 @@ body{
   padding-right: 50px;
 }
 
-#nav{
+ul {
   list-style-type: none;
   text-align: center;
 }
 
-#nav li{
+ li{
   float: left;
   list-style-type: none;
   margin:0;
